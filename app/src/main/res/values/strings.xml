@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kotlin Demo</string>
+
+    <string name="show_picture_image_description">Picture to show</string>
+    <string name="app_logo_description">Kotlin Demo</string>
+    <string name="splash_button_text">Select a picture to show!</string>
+</resources>
